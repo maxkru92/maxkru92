@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://demolab.com" alt="Typing SVG" />
+
+
 <!--
 **maxkru92/maxkru92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
