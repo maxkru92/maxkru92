@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 
 Hi there 👋 Here is Max. I am on my tech & finance journey.
 
