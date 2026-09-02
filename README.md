@@ -4,13 +4,11 @@ Hi there 👋 Here is Max. I am on my tech & finance journey.
 ✨ 13 years of experience in technical maintenance and international tech support.
 📈 Quantitative Trader - Futures & Options.
 💻 Algorithm & tools developer, deeply diving into financial markets since 2019.
-🔭 Focused on AI development, financial engineering, quantitative Finance and next-gen trading .
+🔭 Focused on AI development, financial engineering, quantitative Finance and next-gen trading.
 💭 Coding high-quality, unique trading tools that bridge market insights with advanced AI.
 🌱 Passionate about expanding the boundaries of algorithmic trading and smart coding.
 
-🔗 [Homepage]([YOUR_LINK](https://linktr.ee/kruppcapital)) | 📈 [Crypto Quant Terminal]([YOUR_LINK](https://crypto-quant-terminal-cloudflare-project.pages.dev/)) | 📈 [Systemic Volatility Shock Early Warning System
-]((https://systemic-volatility-shock-ews.pages.dev/)) 
-
+🔗 [Homepage](https://linktr.ee/kruppcapital) | 📈 [Crypto Quant Terminal](https://crypto-quant-terminal-cloudflare-project.pages.dev/) | 📈 [Systemic Volatility Shock Early Warning System](https://systemic-volatility-shock-ews.pages.dev/)
 
 ----------
 
@@ -29,17 +27,3 @@ Hi there 👋 Here is Max. I am on my tech & finance journey.
 ----------
 
 <img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/9e5caccc-704d-4309-bfc5-8d883ea95af4" />
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
-
-
-
-luochang212/README.md
-Hi there 👋 Here is Max.
-✨ I graduated from BUPT.
-💻 I am an algorithm engineer with experience in risk control algorithms and search algorithms.
-🔭 I am interested in deep learning, machine learning, recommendation algorithms, and LLM fine-tuning.
-💭 My favorite motto is Live well, don't overthink (好好生活，别嗯投入 in Chinese).
-🌱 I enjoy writing blogs in my spare time, hoping to create interesting code.
-You can find me at these places: Homepage, Blog, Zhihu, WeChat.
-
-GitHub stats
