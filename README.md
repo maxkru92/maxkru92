@@ -1,8 +1,8 @@
 # 💫 About Me:
-Quantitative Trader - Futures & Options | Founder & Developer<br><br>Living in Germany & Paphos, Cyprus
 
 Hi there 👋 Here is Max. I am on my tech & finance journey.
 ✨ 13 years of experience in technical maintenance and international tech support.
+📈 Quantitative Trader - Futures & Options.
 💻 Algorithm & tools developer, deeply diving into financial markets since 2019.
 🔭 Focused on AI development, financial engineering, quantitative Finance and next-gen trading .
 💭 Coding high-quality, unique trading tools that bridge market insights with advanced AI.
