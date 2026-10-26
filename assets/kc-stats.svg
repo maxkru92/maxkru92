@@ -5,10 +5,10 @@
 <text x="852" y="35" font-size="11" letter-spacing="1" fill="#8199a6" text-anchor="end">@maxkru92</text>
 <line x1="28" y1="50" x2="852" y2="50" stroke="#16242e"/>
 <text x="28.0" y="88" font-size="10" letter-spacing="1.5" fill="#8199a6">CONTRIBUTIONS · 12M</text>
-<text x="28.0" y="126" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#00e5ff" style="font-variant-numeric:tabular-nums">2.566</text>
+<text x="28.0" y="126" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#00e5ff" style="font-variant-numeric:tabular-nums">2.567</text>
 <line x1="234.0" y1="70" x2="234.0" y2="142" stroke="#16242e"/>
 <text x="252.0" y="88" font-size="10" letter-spacing="1.5" fill="#8199a6">PUBLIC COMMITS</text>
-<text x="252.0" y="126" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#c8d6dc" style="font-variant-numeric:tabular-nums">172</text>
+<text x="252.0" y="126" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#c8d6dc" style="font-variant-numeric:tabular-nums">173</text>
 <line x1="440.0" y1="70" x2="440.0" y2="142" stroke="#16242e"/>
 <text x="458.0" y="88" font-size="10" letter-spacing="1.5" fill="#8199a6">AKTUELLE STREAK</text>
 <text x="458.0" y="126" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#d4af37" style="font-variant-numeric:tabular-nums">11 T</text>
@@ -19,10 +19,10 @@
 <text x="28.0" y="218" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#c8d6dc" style="font-variant-numeric:tabular-nums">96</text>
 <line x1="234.0" y1="162" x2="234.0" y2="234" stroke="#16242e"/>
 <text x="252.0" y="180" font-size="10" letter-spacing="1.5" fill="#8199a6">STARS</text>
-<text x="252.0" y="218" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#c8d6dc" style="font-variant-numeric:tabular-nums">10</text>
+<text x="252.0" y="218" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#c8d6dc" style="font-variant-numeric:tabular-nums">7</text>
 <line x1="440.0" y1="162" x2="440.0" y2="234" stroke="#16242e"/>
 <text x="458.0" y="180" font-size="10" letter-spacing="1.5" fill="#8199a6">REPOS</text>
-<text x="458.0" y="218" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#c8d6dc" style="font-variant-numeric:tabular-nums">63</text>
+<text x="458.0" y="218" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#c8d6dc" style="font-variant-numeric:tabular-nums">23</text>
 <line x1="646.0" y1="162" x2="646.0" y2="234" stroke="#16242e"/>
 <text x="664.0" y="180" font-size="10" letter-spacing="1.5" fill="#8199a6">PRIVAT · 12M</text>
 <text x="664.0" y="218" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#8199a6" style="font-variant-numeric:tabular-nums">2.298</text>
