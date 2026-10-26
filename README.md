@@ -17,12 +17,14 @@ Hi there 👋 Here is Max. I am on my tech & finance journey.
 ----------
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maxkru92&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img src="assets/kc-stats.svg" width="880" alt="KC GitHub Stats"/><br/>
 
-![](https://streak-stats.demolab.com/?user=maxkru92&theme=shadow_blue&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maxkru92&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="assets/kc-languages.svg" width="880" alt="Top languages"/><br/>
 
 ----------
 
-<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/9e5caccc-704d-4309-bfc5-8d883ea95af4" />
+<img src="assets/kc-calendar.svg" width="880" alt="github-user-contribution"/>
+
+<!-- KC-STATS:START -->
+<sub>Stand 2026-10-26 UTC · automatisch täglich aktualisiert via GitHub GraphQL contributionsCollection</sub>
+<!-- KC-STATS:END -->
